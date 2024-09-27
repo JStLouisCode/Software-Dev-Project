@@ -4,6 +4,7 @@ public class AddressBook {
 
     private ArrayList<BuddyInfo> buddyList;
 
+    // Default Constructor
     public AddressBook() {
         buddyList = new ArrayList<>();
     }
